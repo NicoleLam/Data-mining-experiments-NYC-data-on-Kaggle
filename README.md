@@ -9,3 +9,7 @@ b. determine whether the violation time attribute follows the normal distributio
 
 The second notebook provides a histogram for the violation county attribute and deal with data inconsistency
 
+The third notebook is for determining whether there is a correlation between the violation time and vehicle
+year attributes
+
+The fourth notebook is some general descriptive data summarization
